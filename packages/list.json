@@ -10,5 +10,11 @@
     "compZhName": "测试组件",
     "compDesc": "默认：这是一个新组件",
     "compClassName": "foo"
+  },
+  {
+    "compName": "UserInfo",
+    "compZhName": "用户资料展示组件",
+    "compDesc": "二次封装的用户资料展示组件",
+    "compClassName": "user-info"
   }
 ]

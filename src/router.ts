@@ -18,6 +18,11 @@
     name: 'Foo',
     path: '/components/Foo',
     component: () => import('packages/Foo/docs/README.md'),
+  },{
+    title: '用户资料展示',
+    name: 'UserInfo',
+    path: '/components/UserInfo',
+    component: () => import('packages/UserInfo/docs/README.md'),
   }];
  
  const routerConfig = {
